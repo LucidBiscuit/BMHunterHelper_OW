@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: BM Hunter Helper
+## Notes: Pet Happiness + Kill Command tracker for Beast Mastery on OctoWoW
+## Author: RUL
+## Version: 1.0
+
+BMHunterHelper.lua
