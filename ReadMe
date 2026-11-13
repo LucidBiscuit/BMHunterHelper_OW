@@ -1,0 +1,18 @@
+How to use
+Type /bmhh to show/hide the frame.
+Drag the frame anywhere you like.
+Pet line: Turns red and says UNHAPPY - FEED! when your pet needs food.
+Kill Command line:
+Grey = waiting for a crit
+Green = READY (you just crit and the cooldown is up)
+Yellow = on cooldown
+
+Notes for OctoWoW
+Crit detection on pure 1.12 can be a bit imperfect depending on combat log messages. If it doesn’t catch every crit reliably, tell me and I can harden it further.
+Kill Command on OctoWoW is only usable after your crit (not the pet’s). The addon tracks that window.
+The addon is deliberately very lightweight so it works well on the 1.12 client.
+Would you like me to also add:
+A louder warning (sound + big text) when the pet becomes Unhappy?
+Automatic suggestion of which food in your bags is best for the current pet?
+A bigger, more visible Kill Command proc indicator?
+Just say which extras you want and I’ll update the code.
